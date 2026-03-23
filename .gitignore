@@ -6,3 +6,7 @@ venv/
 
 # gimp files
 *.xcf
+
+# doc files
+docs/
+requirements.txt
