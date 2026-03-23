@@ -1,0 +1,8 @@
+# generated files
+owce/__pycache__/
+
+# venv files
+venv/
+
+# gimp files
+*.xcf
